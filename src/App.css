@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+.first{
+  margin-left: 100px;
+}
+.cartPic{
+  width: 20px;
+  height: 20px;
+  margin-bottom: 2px;
+}
+.pic{
+  margin-left: 610px;
+  margin-top: 10px;
+}
+.num{
+  border-radius:50%;
+}
+.middle{
+  height: 300px;
+  padding: 100px;
+}
+.t1{
+  font-size: 55px !important;
+}
+.t2{
+  font-size: 20px;
+}
+.card{
+  height: 340px;
+  width: 230px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+.allCard{
+  padding: 50px 0;
+  margin-left: 100px;
+  
+}
+.foot{
+  height: 100px;
+  padding: 50px;
+}
+.sale{
+  position: absolute;
+  right:0px;
+  margin: 10px;
+  /* justify-content: end; */
+  
+}
